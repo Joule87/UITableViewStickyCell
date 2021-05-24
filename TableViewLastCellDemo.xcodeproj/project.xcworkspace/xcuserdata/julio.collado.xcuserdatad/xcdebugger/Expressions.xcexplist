@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tableView(_:willDisplay:forRowAt:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastSectionHeightValue">
+            </PersistentString>
+            <PersistentString
+               value = "leftTableViewSpace">
+            </PersistentString>
+            <PersistentString
+               value = "lastCellHeight">
+            </PersistentString>
+            <PersistentString
+               value = "currentLastCellHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
